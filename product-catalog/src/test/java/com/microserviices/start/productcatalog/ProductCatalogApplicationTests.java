@@ -1,4 +1,4 @@
-package com.microservices.start.productcatalog;
+package com.microserviices.start.productcatalog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
